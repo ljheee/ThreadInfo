@@ -1,0 +1,11 @@
+集合框架
+
+Set
+
+
+Collection 是个接口，是基石。
+
+
+2个算法实现类(很多算法实现，都是基于数组)
+java.util.Arrays
+java.util.Collections
